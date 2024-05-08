@@ -65,8 +65,6 @@ type proc_m4u, fs_type, proc_type;
 
 # Date : 2019/09/05
 # Purpose: Allow powerhal to control kernel resources
-type proc_ppm, fs_type, proc_type;
-type proc_cpufreq, fs_type, proc_type;
 type proc_hps, fs_type, proc_type;
 type proc_cm_mgr, fs_type, proc_type;
 type proc_fliperfs, fs_type, proc_type;
